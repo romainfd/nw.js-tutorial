@@ -1,0 +1,3 @@
+[submodule "breakout_desktop_nw"]
+	path = breakout_desktop_nw
+	url = https://github.com/romainfd/breakout_desktop_nw.git
